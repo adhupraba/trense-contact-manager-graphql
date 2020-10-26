@@ -1,0 +1,36 @@
+.page-title {
+    display: block !important;
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+  }
+  
+  .post-button {
+    margin-right: 1rem !important;
+  }
+  
+  .form-container {
+    width: 40%;
+    margin: auto;
+  }
+  
+  .auth-link {
+    margin: 1rem auto;
+  }
+  
+  ::-webkit-scrollbar {
+      width: 8px;
+      margin-right: 10px;
+      background: transparent;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+      border-radius: 5px;
+      background: rgb(179, 172, 172);
+  }
+  
+  input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
